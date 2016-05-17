@@ -81,5 +81,8 @@ public class Calculator {
 		this.stats = stats;
 	}
 	
+	public void setConversionMap(ConversionMap conversionMap){
+		this.conversionMap = conversionMap;
+	}
 	
 }
